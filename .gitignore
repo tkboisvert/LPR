@@ -1,0 +1,9 @@
+*_ReSharper*
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+[Pp]ackages/
+*.dat
+*.version
+*.crc
